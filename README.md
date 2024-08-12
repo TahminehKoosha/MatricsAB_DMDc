@@ -1,15 +1,13 @@
 # MatricsAB_DMDc
 ## Overview
-Welcome to "PyC_MatricAB", an innovative Python repository created by the PsyControl Lab. Our focus is on analyzing complex systems within the realms of neuroscience and psychology. The centerpiece of this repository is the `PyC_MatricAB` function, which is meticulously designed to calculate A and B matrices in linear time-invariant systems. These calculations are instrumental in dissecting the dynamics of neural networks and psychological states, offering a window into the intricate workings of the human mind and behavior.
+Welcome to "MatricAB", an innovative Python repository. My focus is on analyzing complex systems within the realms of neuroscience and psychology. The centerpiece of this repository is the `MatricAB` function, which is meticulously designed to calculate A and B matrices in linear time-invariant systems. These calculations are instrumental in dissecting the dynamics of neural networks and psychological states, offering a window into the intricate workings of the human mind and behavior.
 
-## Background
-At PsyControl Lab, we are at the forefront of integrating diverse disciplines such as physics, engineering, neuroscience, and psychology. Our research harnesses the power of network control theory, machine learning, and AI to delve into the intricacies of psychiatric disorders and human behavior. The `PyC_MatricAB` function is a reflection of our commitment to advancing scientific understanding in these complex domains, bridging the gap between theoretical models and practical, data-driven applications.
 
 ## Installation
-To get started with `PyC_MatricAB`, clone the repository and install the required Python packages:
+To get started with `MatricAB`, clone the repository and install the required Python packages:
 ```bash
 git clone https://github.com/PsyControLab/PyC_MatricAB_DMDc.git
-cd PyC_MatricAB_DMDc
+cd MatricAB_DMDc
 pip install numpy pandas
 ```
 ## Usage
@@ -17,7 +15,7 @@ The MatricAB function is user-friendly and can be integrated easily into your da
 
 ```python
 import pandas as pd
-from PyC_MatricAB_DMDc import PyC_MatricAB_DMDc as PyC
+from MatricAB_DMDc import MatricAB_DMDc as PyC
 
 # Example: Load your dataset into a pandas DataFrame
 df = pd.read_csv('your_data.csv')
