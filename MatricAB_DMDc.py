@@ -62,7 +62,7 @@ def MatricAB(df, id_col, X_cols, U_col, n):
 #id_col = 'entity_id'  # This should be the name of the column with unique identifiers in your dataset
 #X_cols = ['state_var1', 'state_var2', 'state_var3']  # List of columns representing state variables
 #U_col = 'input'  # Column name for the input variable
-#n = 28  # The dimension of your state variable (n in A_{n x n})
+#n = 'd'  # The dimension of your state variable (n in A_{n x n})
 
 # Execute the function to calculate the A and B matrices
 #df_AB = PyC_MatricAB(df, id_col, X_cols, U_col, n)
