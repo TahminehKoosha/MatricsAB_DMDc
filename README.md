@@ -6,7 +6,7 @@ Welcome to "MatricAB", an innovative Python repository. My focus is on analyzing
 ## Installation
 To get started with `MatricAB`, clone the repository and install the required Python packages:
 ```bash
-git clone https://github.com/PsyControLab/PyC_MatricAB_DMDc.git
+git clone https://github.com/PsyControLab/MatricAB_DMDc.git
 cd MatricAB_DMDc
 pip install numpy pandas
 ```
