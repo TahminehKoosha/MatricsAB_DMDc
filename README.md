@@ -49,5 +49,4 @@ The function processes your data and returns a DataFrame with calculated A and B
 
  **Citation:**
  Proctor, Joshua L., Brunton, Steven L., and Kutz, J. Nathan. "Dynamic mode decomposition with control." SIAM Journal on Applied Dynamical Systems 15.1 (2016): 142
- [Access Paper]([https://doi.org/your_DOI_here](https://doi.org/10.1137/15M1013857)
-
+ [Access Paper](https://doi.org/10.1137/15M1013857)
