@@ -46,3 +46,7 @@ df_final.head(3)
 
 ```
 The function processes your data and returns a DataFrame with calculated A and B matrices for each unique entity, providing insights into the system's dynamics.
+
+ **Citation:**
+ Proctor, Joshua L., Brunton, Steven L., and Kutz, J. Nathan. "Dynamic mode decomposition with control." SIAM Journal on Applied Dynamical Systems 15.1 (2016): 142
+
